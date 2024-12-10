@@ -1,0 +1,3 @@
+[submodule "src/youbot_description"]
+	path = src/youbot_description
+	url = git@github.com:brsu-youbot/youbot_description.git
