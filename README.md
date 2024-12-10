@@ -1,1 +1,4 @@
-# Youbot_FK_IK_w_rviz
+# Youbot Visulaization with rviz
+
+Make sure you are in the current workspace and run the following command.
+`catkin_make`

@@ -1,0 +1,101 @@
+DH Parameters:
+Joint: base_footprint_joint
+  Type: fixed
+  a: 0.0000, alpha: 0.00°
+  d: 0.0000, theta: 0.00°
+
+Joint: caster_joint_fl
+  Type: continuous
+  a: 0.2280, alpha: 0.00°
+  d: -0.0340, theta: 0.00°
+
+Joint: wheel_joint_fl
+  Type: continuous
+  a: 0.0000, alpha: 0.00°
+  d: 0.0000, theta: 0.00°
+
+Joint: caster_joint_fr
+  Type: continuous
+  a: 0.2280, alpha: 0.00°
+  d: -0.0340, theta: 0.00°
+
+Joint: wheel_joint_fr
+  Type: continuous
+  a: 0.0000, alpha: 0.00°
+  d: 0.0000, theta: 0.00°
+
+Joint: caster_joint_bl
+  Type: continuous
+  a: -0.2280, alpha: 0.00°
+  d: -0.0340, theta: 0.00°
+
+Joint: wheel_joint_bl
+  Type: continuous
+  a: 0.0000, alpha: 0.00°
+  d: 0.0000, theta: 0.00°
+
+Joint: caster_joint_br
+  Type: continuous
+  a: -0.2280, alpha: 0.00°
+  d: -0.0340, theta: 0.00°
+
+Joint: wheel_joint_br
+  Type: continuous
+  a: 0.0000, alpha: 0.00°
+  d: 0.0000, theta: 0.00°
+
+Joint: plate_joint
+  Type: fixed
+  a: -0.1590, alpha: 0.00°
+  d: 0.0460, theta: 0.00°
+
+Joint: arm_joint_0
+  Type: fixed
+  a: 0.1430, alpha: 0.00°
+  d: 0.0460, theta: 0.00°
+
+Joint: arm_joint_1
+  Type: revolute
+  a: 0.0240, alpha: 0.00°
+  d: 0.0960, theta: 170.00°
+
+Joint: arm_joint_2
+  Type: revolute
+  a: 0.0330, alpha: 0.00°
+  d: 0.0190, theta: 0.00°
+
+Joint: arm_joint_3
+  Type: revolute
+  a: 0.0000, alpha: 0.00°
+  d: 0.1550, theta: 0.00°
+
+Joint: arm_joint_4
+  Type: revolute
+  a: 0.0000, alpha: 0.00°
+  d: 0.1350, theta: 0.00°
+
+Joint: arm_joint_5
+  Type: revolute
+  a: -0.0020, alpha: 0.00°
+  d: 0.1300, theta: 167.50°
+
+Joint: gripper_palm_joint
+  Type: fixed
+  a: 0.0000, alpha: 0.00°
+  d: 0.0000, theta: 0.00°
+
+Joint: gripper_finger_joint_l
+  Type: prismatic
+  a: 0.0040, alpha: 0.00°
+  d: 0.0460, theta: 180.00°
+
+Joint: gripper_finger_joint_r
+  Type: prismatic
+  a: 0.0040, alpha: 0.00°
+  d: 0.0460, theta: 0.00°
+
+Joint: base_laser_front_hokuyo_urg04_laser_joint
+  Type: fixed
+  a: 0.3000, alpha: 0.00°
+  d: -0.0300, theta: 0.00°
+
