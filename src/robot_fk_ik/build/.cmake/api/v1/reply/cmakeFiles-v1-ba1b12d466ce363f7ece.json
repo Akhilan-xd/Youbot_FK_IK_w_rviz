@@ -1,0 +1,349 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.16.3/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.16.3/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/Internal/CMakeCheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/Platform/Linux-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/FindBoost.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.16/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/boost_headers-1.71.0/boost_headers-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/boost_headers-1.71.0/boost_headers-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/boost_system-1.71.0/boost_system-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/boost_system-1.71.0/boost_system-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/BoostDetectToolset-1.71.0.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/boost_system-1.71.0/libboost_system-variant-shared.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/boost_system-1.71.0/libboost_system-variant-static.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/boost_headers-1.71.0/boost_headers-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/boost_headers-1.71.0/boost_headers-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/eigen3/Eigen3ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/eigen3/Eigen3Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/eigen3/Eigen3Targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/orocos_kdl/cmake/orocos_kdl-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/orocos_kdl/cmake/orocos_kdl-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/kdl_parser/cmake/kdl_parserConfig-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/kdl_parser/cmake/kdl_parserConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/rosconsole/cmake/rosconsoleConfig-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/rosconsole/cmake/rosconsoleConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/cpp_common/cmake/cpp_commonConfig-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/cpp_common/cmake/cpp_commonConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/rostime/cmake/rostimeConfig-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/rostime/cmake/rostimeConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/rosconsole/cmake/rosconsole-extras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/urdf/cmake/urdfConfig-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/urdf/cmake/urdfConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/rosconsole_bridge/cmake/rosconsole_bridgeConfig-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/rosconsole_bridge/cmake/rosconsole_bridgeConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/roscpp/roscppConfig-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/roscpp/roscppConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/message_runtime/cmake/message_runtimeConfig-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/message_runtime/cmake/message_runtimeConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/roscpp_serialization/cmake/roscpp_serializationConfig-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/roscpp_serialization/cmake/roscpp_serializationConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/roscpp_traits/cmake/roscpp_traitsConfig-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/roscpp_traits/cmake/roscpp_traitsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/rosgraph_msgs/cmake/rosgraph_msgsConfig-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/rosgraph_msgs/cmake/rosgraph_msgsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/std_msgs/cmake/std_msgsConfig-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/std_msgs/cmake/std_msgsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/std_msgs/cmake/std_msgs-msg-extras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/rosgraph_msgs/cmake/rosgraph_msgs-msg-extras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/xmlrpcpp/cmake/xmlrpcppConfig-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/xmlrpcpp/cmake/xmlrpcppConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/xmlrpcpp/cmake/xmlrpcpp-extras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/roscpp/roscpp-msg-extras.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/akhilan/Downloads/RM_TA_WS_24/24_25 ASSGN_04_Feedback/robot-manipualtion-ws-2425-Akhilan-xd/build",
+		"source" : "/home/akhilan/Downloads/RM_TA_WS_24/24_25 ASSGN_04_Feedback/robot-manipualtion-ws-2425-Akhilan-xd"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libyoubot_kdl.a  CMakeFiles/youbot_kdl.dir/src/KDLInterface.cpp.o
+/usr/bin/ranlib libyoubot_kdl.a
