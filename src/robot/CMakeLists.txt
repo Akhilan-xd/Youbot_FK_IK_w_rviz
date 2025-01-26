@@ -8,6 +8,7 @@ find_package(catkin REQUIRED COMPONENTS
   rviz
   tf2
   urdf
+  moveit_commander
 )
 
 catkin_package(

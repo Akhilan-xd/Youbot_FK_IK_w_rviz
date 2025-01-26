@@ -1,0 +1,8 @@
+prefix=/home/akhilan/robot_rviz_ws/Youbot_FK_IK_w_rviz/install
+
+Name: youbot_description
+Description: Description of youbot_description
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

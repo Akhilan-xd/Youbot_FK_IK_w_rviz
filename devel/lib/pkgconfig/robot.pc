@@ -1,0 +1,8 @@
+prefix=/home/akhilan/robot_rviz_ws/Youbot_FK_IK_w_rviz/devel
+
+Name: robot
+Description: Description of robot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp

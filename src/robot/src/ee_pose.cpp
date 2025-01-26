@@ -4,6 +4,7 @@
 #include "tf2_ros/transform_listener.h"
 #include "tf2_ros/buffer.h"
 #include "geometry_msgs/TransformStamped.h"
+from moveit_commander import RobotCommander
 
 void joint_states_callback(const sensor_msgs::JointState::ConstPtr& msg) {
     ROS_INFO("Received joint state data!");

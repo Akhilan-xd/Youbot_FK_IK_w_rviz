@@ -1,0 +1,2 @@
+robot:youbot_description
+-DCATKIN_DEVEL_PREFIX=/home/akhilan/robot_rviz_ws/Youbot_FK_IK_w_rviz/devel -DCMAKE_INSTALL_PREFIX=/home/akhilan/robot_rviz_ws/Youbot_FK_IK_w_rviz/install -G Unix Makefiles
