@@ -6,6 +6,7 @@ Assignment: 04
 Copyright: HBRS_RM_24-25
 */
 #include "youbot_kdl/KDLInterface.h"
+#include <math.h>
 
 KDLInterface::KDLInterface(){
 	double offset[5] = {d2r(-169),d2r(-65),d2r(151),d2r(-102.5),d2r(-165)};
@@ -49,16 +50,10 @@ KDLInterface::KDLInterface(){
 
 	// - - - - - - - - - - - - - - - - - - - - - - - - - Using urdf_files - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - //	
 
-<<<<<<< HEAD
-	Tree youbot_tree;
-	if (!kdl_parser::treeFromFile("/home/akhilan/Downloads/RM_TA_WS_24/24_25 ASSGN_04_Feedback/robot-manipualtion-ws-2425-Akhilan-xd/src/robot/urdf/youbot_arm_only.urdf",youbot_tree)){
-=======
 	KDL::Tree youbot_tree;
-	if (!kdl_parser::treeFromFile("/home/akhilan/Downloads/robot-manipualtion-ws-2425-Akhilan-xd/urdf/youbot_arm_only.urdf",youbot_tree)){
->>>>>>> e703913f1da2ecf7b58860e969b3b61210c628ff
+	if (!kdl_parser::treeFromFile("/home/akhilan/robot_rviz_ws/Youbot_FK_IK_w_rviz/src/robot_fk_ik/urdf/youbot_arm_only.urdf",youbot_tree)){
 		std::cout << "Oops!!!\n";
 	}
-
 
 	// In the urdf arm_only there are 6 links starting from 0 - 5(6)
 
@@ -265,8 +260,6 @@ bool KDLInterface::iksolver(KDL::Frame &pos, double joint_positions[]){
 	cout << "The joint positions are: \t";
 	for (unsigned int i = 0; i < jointpositions.rows(); ++i) {
 		cout << jointpositions(i) << " ";
-		// converting radians to degrees
-		cout << r2d(jointpositions(i)) << " ";
 	}
 	cout << endl;
 

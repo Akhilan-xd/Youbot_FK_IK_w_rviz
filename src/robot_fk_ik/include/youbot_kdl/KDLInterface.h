@@ -31,15 +31,10 @@ using namespace std;
 class KDLInterface{
 private:
     double d2r(double v);
-<<<<<<< HEAD
     double r2d(double v);
     KDL::Chain chain_dh;
     KDL::Chain chain_urdf;
-=======
-    KDL::Chain chain_dh;
-    KDL::Chain chain_urdf;
     KDL::Tree youbot_tree; 
->>>>>>> e703913f1da2ecf7b58860e969b3b61210c628ff
     int nr_joints;
     int nr_joints_urdf;
     KDL::Frame pos;
